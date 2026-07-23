@@ -26,3 +26,6 @@ poller.run([\"123 Main St\", \"456 Oak Ave\"])
 - `poller.py` – fetches, extracts, determines status, persists to JSON
 - `run_demo.py` – zero-argument demo with 3 hard-coded locations
 - `run_tests.py` – unit tests for extraction and status logic
+Dashboard: https://multi-location-multi-jurisdiction-busine.vokrix.co
+Vercel Project: multi-location-multi-jurisdiction-busine
+Railway Service: 893e7380-0faf-4d09-a57e-f7d7af6ecc0e
